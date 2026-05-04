@@ -1,6 +1,4 @@
 ---
 title: Welcome to DuongHB Techz
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Chia sẻ những kiến thức về AI & blockchain.
