@@ -1,5 +1,9 @@
 ---
-title: {{tp.file.title}}
-date: {{tp.date.now("YYYY-MM-DD")}}
-tags: [ai-agent, blockchain]
+title:
+  "{ tp.file.title }":
+date:
+  '{ tp.date.now("YYYY-MM-DD") }':
+tags:
+  - ai-agent
+  - blockchain
 ---
