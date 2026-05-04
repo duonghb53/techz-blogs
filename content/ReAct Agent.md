@@ -74,22 +74,7 @@ Khi ta nói "ReAct Agent", ta có nghĩa là AI Agent được xây dựng theo 
 
 Một ReAct Agent có năm phần:
 
-```
-+------------------------------------------------+
-|               Loop Controller                  |
-|                                                |
-|   System Prompt --->  +-------+                |
-|                       |       |                |
-|   Memory        --->  |  LLM  | <-----+        |
-|                       +-------+       |        |
-|                           |           |        |
-|                           | chọn      | obs    |
-|                           v           |        |
-|                       +-------+       |        |
-|                       | Tools | ------+        |
-|                       +-------+                |
-+------------------------------------------------+
-```
+![[Anatomy of ReAct Agent.png]]
 
 **1. LLM.** Đây là bộ não. Nó thực hiện việc suy luận. Nó đọc lịch sử cuộc trò chuyện và quyết định bước tiếp theo — hoặc chọn tool để gọi, hoặc đưa ra câu trả lời cuối cùng.
 
