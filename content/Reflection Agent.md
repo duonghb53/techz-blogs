@@ -619,4 +619,4 @@ Reflection là một trong những pattern phổ biến nhất để xây dựng
 
 ---
 
-_Nguồn: [Outcome School - Reflection Agent](https://outcomeschool.com/blog/reflection-agent?utm_source=chatgpt.com)_
+_Nguồn: [Outcome School - Reflection Agent](https://outcomeschool.com/blog/reflection-agent) by Amit Shekhar_
