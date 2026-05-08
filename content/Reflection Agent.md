@@ -1,6 +1,6 @@
 # Reflection Agent
 
-_Tác giả: Amit Shekhar | Người dịch: ChatGPT_
+_Tác giả: Amit Shekhar | Ngày đăng: 7 tháng 5, 2026_
 
 ---
 ![[Reflection Agent.png]]
