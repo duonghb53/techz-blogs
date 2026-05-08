@@ -20,14 +20,6 @@ Nội dung bao gồm:
 
 ---
 
-Tôi là Amit Shekhar, Founder của Outcome School. Tôi đã giảng dạy và mentor cho rất nhiều developer, giúp họ đạt được các công việc công nghệ lương cao, hỗ trợ nhiều công ty giải quyết các vấn đề đặc thù, và tạo ra nhiều thư viện mã nguồn mở được sử dụng bởi các công ty lớn. Tôi đam mê chia sẻ kiến thức qua open-source, blog và video.
-
-Tôi giảng dạy AI và Machine Learning tại Outcome School.
-
-Bắt đầu thôi.
-
----
-
 # Reflection Agent là gì
 
 **Reflection Agent** là một **AI Agent** được xây dựng theo pattern **Reflection**. Trong pattern này, agent trước tiên viết ra một bản nháp, sau đó tự đọc lại bản nháp của mình và đánh giá nó, rồi viết phiên bản tốt hơn dựa trên phần đánh giá đó. Vòng lặp này tiếp tục cho đến khi kết quả đủ tốt.
