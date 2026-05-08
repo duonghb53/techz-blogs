@@ -74,8 +74,8 @@ Câu trả lời là:
 
 Các pattern khác như:
 
-- ReAct
-- Plan-and-Execute
+- [[ReAct Agent]]
+- [[Plan-and-Execute Agent]]
 - Agentic RAG
 
 … cũng là các cách khác nhau để xây dựng AI Agent.
